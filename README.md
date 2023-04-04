@@ -1,2 +1,2 @@
-# embedded_system
-임베디드시스템 프로젝트
+# embedded_project
+춤추는 하찮은 원숭이
